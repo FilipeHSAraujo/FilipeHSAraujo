@@ -27,13 +27,18 @@ Sou um QA Engineer localizado em Olinda, Pernambuco. Atualmente, minha paixão s
 
 ### 🛠️ Minhas Habilidades e Ferramentas
 
-Minha experiência profissional e acadêmica me deu proficiência em:
-
-* **QA & Testes:** Teste de Software (Web, Mobile, Jogos), Análise de Testes, Automação de Testes, Testes de Compliance (CTS, VTS, STS, ITS).
-* **DevOps:** Princípios e práticas de DevOps.
-* **Desenvolvimento:** Desenvolvimento de Jogos com GODOT.
-* **Metodologias:** Agile, Gerenciamento de Projetos.
-* **Sistemas e Cloud:** Linux (Administração e Configuração), Windows, IBM Cloud.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/agile.png" alt="Agile" height="40" />
+  
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/devops.png" alt="DevOps" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ibm-cloud.png" alt="IBM Cloud" height="40" />
+  
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" height="40" />
+  
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" height="40" />
+</p>
 
 ---
 
