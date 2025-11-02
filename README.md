@@ -11,11 +11,9 @@
   <a href="mailto:filipehsaraujo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="ttps://filipehsaraujo.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="itch.io"/>
+  <a href="https://filipehsaraujo.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
   </a>
-
-  
 </p>
 
 ---
