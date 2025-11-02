@@ -11,6 +11,11 @@
   <a href="mailto:filipehsaraujo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="filipehsaraujo@gmail.com](https://filipehsaraujo.itch.io/)">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="itch.io"/>
+  </a>
+
+  
 </p>
 
 ---
