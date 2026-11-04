@@ -100,8 +100,8 @@ I'm a QA Engineer and IT professor based in Olinda, Pernambuco. My signal runs o
 ## ▸ `STATS.EXE`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FilipeHSAraujo&show_icons=true&hide_border=false&bg_color=010402&title_color=c2ff4d&icon_color=7ee32a&text_color=d9ffd0&border_color=2f6b22&border_radius=0" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeHSAraujo&layout=compact&hide_border=false&bg_color=010402&title_color=c2ff4d&text_color=d9ffd0&border_color=2f6b22&border_radius=0" alt="Top languages"/>
+  <img src="assets/stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="assets/langs.svg" width="49%" alt="Top languages"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
