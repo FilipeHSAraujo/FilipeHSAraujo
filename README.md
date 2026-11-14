@@ -72,7 +72,7 @@ I'm a QA Engineer and IT professor based in Olinda, Pernambuco. My signal runs o
 
 | ▸ Position | ▸ Station | ▸ Period |
 | :--- | :--- | :--- |
-| **Professor** · DevOps | UNIAESO | `Feb 2026 — Present` |
+| **Professor** · DevOps | UNIAESO | `Feb 2026 — July 2026` |
 | **Professor** · Software Testing, Programming & Web | UNINASSAU | `Apr 2025 — Present` |
 | **IT Instructor** · Technical Course in IT | Senac PE | `Aug 2026 — Present` |
 | **Freelance Web Developer** | [PrimeRush](https://primerush.net) | — |
