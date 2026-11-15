@@ -24,31 +24,31 @@
   <text x="30" y="21" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="14" letter-spacing="2" fill="#c2ff4d">TOP_LANGUAGES.CFG</text>
   <line x1="1" y1="31" x2="494" y2="31" stroke="#7ee32a" stroke-opacity=".35"/>
   <rect x="18" y="46" width="459" height="12" fill="#0f4d17" opacity=".45"/>
-  <rect class="bar" style="animation-delay:0.0s" x="18.0" y="46" width="317.8" height="12" fill="#c2ff4d"/>
-  <rect class="bar" style="animation-delay:0.1s" x="335.8" y="46" width="55.6" height="12" fill="#7ee32a"/>
-  <rect class="bar" style="animation-delay:0.2s" x="391.5" y="46" width="28.3" height="12" fill="#4fbf1f"/>
-  <rect class="bar" style="animation-delay:0.3s" x="419.8" y="46" width="22.4" height="12" fill="#2f9a18"/>
-  <rect class="bar" style="animation-delay:0.4s" x="442.2" y="46" width="15.3" height="12" fill="#1f7a14"/>
-  <rect class="bar" style="animation-delay:0.5s" x="457.4" y="46" width="10.0" height="12" fill="#3d5f2c"/>
+  <rect class="bar" style="animation-delay:0.0s" x="18.0" y="46" width="311.1" height="12" fill="#c2ff4d"/>
+  <rect class="bar" style="animation-delay:0.1s" x="329.1" y="46" width="64.0" height="12" fill="#7ee32a"/>
+  <rect class="bar" style="animation-delay:0.2s" x="393.0" y="46" width="27.7" height="12" fill="#4fbf1f"/>
+  <rect class="bar" style="animation-delay:0.3s" x="420.7" y="46" width="21.9" height="12" fill="#2f9a18"/>
+  <rect class="bar" style="animation-delay:0.4s" x="442.7" y="46" width="15.0" height="12" fill="#1f7a14"/>
+  <rect class="bar" style="animation-delay:0.5s" x="457.7" y="46" width="9.8" height="12" fill="#3d5f2c"/>
   <g class="row" style="animation-delay:0.3s">
     <rect x="18" y="82" width="10" height="10" fill="#c2ff4d"/>
     <text x="36" y="92" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d9ffd0">ActionScript</text>
-    <text x="236" y="92" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">69.2%</text>
+    <text x="236" y="92" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">67.8%</text>
   </g>
   <g class="row" style="animation-delay:0.4s">
     <rect x="254" y="82" width="10" height="10" fill="#7ee32a"/>
     <text x="272" y="92" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d9ffd0">JavaScript</text>
-    <text x="472" y="92" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">12.1%</text>
+    <text x="472" y="92" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">13.9%</text>
   </g>
   <g class="row" style="animation-delay:0.5s">
     <rect x="18" y="112" width="10" height="10" fill="#4fbf1f"/>
     <text x="36" y="122" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d9ffd0">Yacc</text>
-    <text x="236" y="122" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">6.2%</text>
+    <text x="236" y="122" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">6.0%</text>
   </g>
   <g class="row" style="animation-delay:0.6s">
     <rect x="254" y="112" width="10" height="10" fill="#2f9a18"/>
     <text x="272" y="122" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d9ffd0">Java</text>
-    <text x="472" y="122" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">4.9%</text>
+    <text x="472" y="122" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">4.8%</text>
   </g>
   <g class="row" style="animation-delay:0.7s">
     <rect x="18" y="142" width="10" height="10" fill="#1f7a14"/>
@@ -58,7 +58,7 @@
   <g class="row" style="animation-delay:0.8s">
     <rect x="254" y="142" width="10" height="10" fill="#3d5f2c"/>
     <text x="272" y="152" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d9ffd0">Python</text>
-    <text x="472" y="152" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">2.2%</text>
+    <text x="472" y="152" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="13" fill="#c2ff4d">2.1%</text>
   </g>
   <rect width="495" height="200" fill="url(#scan)"/>
   <path d="M.5 .5H478.5L494.5 16.5V199.5H16.5L.5 183.5Z" fill="none" stroke="#2f6b22" stroke-width="1.5"/>
