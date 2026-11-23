@@ -26,20 +26,20 @@
   <g class="row" style="animation-delay:0.00s">
     <text x="18" y="56" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="1" fill="#7fae74">▸ TOTAL STARS</text>
     <rect x="248" y="46" width="150" height="10" fill="#0f4d17" opacity=".45"/>
-    <rect class="bar" style="animation-delay:0.00s" x="248" y="46" width="32" height="10" fill="#7ee32a"/>
+    <rect class="bar" style="animation-delay:0.00s" x="248" y="46" width="31" height="10" fill="#7ee32a"/>
     <text x="477" y="56" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="14" fill="#c2ff4d">50</text>
   </g>
   <g class="row" style="animation-delay:0.12s">
     <text x="18" y="80" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="1" fill="#7fae74">▸ COMMITS (LAST YEAR)</text>
     <rect x="248" y="70" width="150" height="10" fill="#0f4d17" opacity=".45"/>
-    <rect class="bar" style="animation-delay:0.12s" x="248" y="70" width="128" height="10" fill="#7ee32a"/>
-    <text x="477" y="80" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="14" fill="#c2ff4d">203</text>
+    <rect class="bar" style="animation-delay:0.12s" x="248" y="70" width="129" height="10" fill="#7ee32a"/>
+    <text x="477" y="80" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="14" fill="#c2ff4d">211</text>
   </g>
   <g class="row" style="animation-delay:0.24s">
     <text x="18" y="104" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="1" fill="#7fae74">▸ CONTRIBUTIONS (LAST YEAR)</text>
     <rect x="248" y="94" width="150" height="10" fill="#0f4d17" opacity=".45"/>
     <rect class="bar" style="animation-delay:0.24s" x="248" y="94" width="150" height="10" fill="#7ee32a"/>
-    <text x="477" y="104" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="14" fill="#c2ff4d">237</text>
+    <text x="477" y="104" text-anchor="end" font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="14" fill="#c2ff4d">245</text>
   </g>
   <g class="row" style="animation-delay:0.36s">
     <text x="18" y="128" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="1" fill="#7fae74">▸ PULL REQUESTS</text>
